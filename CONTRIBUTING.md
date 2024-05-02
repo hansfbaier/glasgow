@@ -1,1 +1,0 @@
-For information on contribution, please refer to the [official documentation](https://glasgow-embedded.org/latest/contribute.html).
